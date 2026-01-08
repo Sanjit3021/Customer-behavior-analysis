@@ -88,7 +88,7 @@ Delivered insights in a visual and business-friendly format
 
 Clone the repository:
 
-git clone https://github.com/your-username/data-analytics-project.git
+git clone https://github.com/Sanjit3021/Customer-behavior-analysis.git
 
 
 Open the Jupyter Notebook and run all cells:
